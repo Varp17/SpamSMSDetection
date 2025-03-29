@@ -1,6 +1,3 @@
-Here's your **README.md** file for your **Spam SMS Detection** project. It includes instructions to run the project both in the console and via a web-based UI using **Streamlit**.
-
----
 
 ## **README.md**  
 
