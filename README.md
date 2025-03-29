@@ -1,7 +1,3 @@
-Here's a **well-documented README file** for your **Spam SMS Detection Project**. This will make it **easy to understand** for your reviewers and increase your chances of **getting the internship**.  
-
----
-
 # **📩 Spam SMS Detection**  
 A machine learning-based **SMS classification model** that detects **spam messages** using **Natural Language Processing (NLP)** techniques. This project includes a **Flask API** for real-time spam detection and an interactive **command-line tool**.  
 
