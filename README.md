@@ -86,9 +86,9 @@ This will open a browser window where you can enter an SMS and check if it is sp
 ---
 
 ## 👨‍💻 Author  
-**Your Name**  
-📧 your.email@example.com  
-🔗 [Your GitHub Profile](https://github.com/your-username)  
+**Varun Patil**  
+📧 varunpatil0217@gmail.com  
+🔗 [Your GitHub Profile](https://github.com/your-username](https://github.com/Varp17)  
 
 ---
 
