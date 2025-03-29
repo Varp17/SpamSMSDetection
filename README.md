@@ -1,5 +1,5 @@
 
-## **README.md
+## README.md
 This project detects whether an SMS is spam or not using a trained machine learning model. You can run the program in two modes:
 1. **Console Mode** (Command-line interface)
 2. **Web App Mode** (Using Streamlit)
