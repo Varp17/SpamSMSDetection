@@ -13,14 +13,14 @@ A machine learning-based **SMS classification model** that detects **spam messag
 ---
 
 ## **📂 Dataset**  
-- **Source:** SMS Spam Collection Dataset  
+- **Source:** [Kaggle: SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)  
 - **Labels:**  
   - **Spam (1):** Unwanted messages (e.g., fraud, marketing, phishing).  
   - **Ham (0):** Normal messages.  
 - **Example Messages:**  
   ```
-  "Congratulations! You've won a lottery. Claim now!"
-  "Hey, are we meeting today?"
+  "Free entry in a contest to win an iPhone!"
+  "Hi, let's meet at 5 PM."
   ```
 
 ---
@@ -58,7 +58,7 @@ python spam_sms_api.py
   Enter an SMS: "You won a free iPhone! Click here."
   Prediction: Spam
   ```
-
+---
 
 ## **🛠️ How It Works**  
 ### **1. Preprocessing (Data Cleaning)**
@@ -112,6 +112,3 @@ MIT License - Free to use & modify.
 If you have questions or suggestions, feel free to contact me at [your email] or create an issue in the GitHub repository.
 
 ---
-
-### 🎯 **Final Notes**
-This README makes your project **look professional & internship-ready**. If you want me to add more details or tweak anything, let me know! 🚀
